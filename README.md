@@ -1,6 +1,6 @@
 # Payal Wankhade — Developer Portfolio
 
-A modern, high-performance, and visually stunning developer portfolio built with **React**, **Vite**, and **Vanilla CSS**. Designed based on [Riya Shinde's Portfolio](https://riyas1portfolio.netlify.app/) and customized with the complete resume and credentials of **Payal Wankhade** (Python Developer & Full-Stack Engineer).
+A modern, high-performance, and visually stunning developer portfolio built with **React**, **Vite**, and **Vanilla CSS**. customized with the complete resume and credentials of **Payal Wankhade** (Python Developer & Full-Stack Engineer).
 
 ---
 
