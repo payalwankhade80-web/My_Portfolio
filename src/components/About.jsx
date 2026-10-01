@@ -33,28 +33,9 @@ export default function About() {
             </div>
           </div>
 
-          {/* Dossier Details Card with Profile Photo */}
+          {/* Dossier Details Card */}
           <div className="glass-card about-details card-interactive">
-            <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginBottom: '1.25rem' }}>
-              <img
-                src="/images/payal.jpg"
-                alt="Payal Wankhade"
-                style={{
-                  width: '64px',
-                  height: '64px',
-                  borderRadius: '50%',
-                  objectFit: 'cover',
-                  border: '2px solid var(--accent-indigo)',
-                  boxShadow: '0 0 15px rgba(99, 102, 241, 0.35)'
-                }}
-              />
-              <div>
-                <h3 className="details-heading" style={{ margin: 0 }}>Candidate Dossier</h3>
-                <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
-                  Verified Profile & Credentials
-                </span>
-              </div>
-            </div>
+            <h3 className="details-heading">Candidate Dossier</h3>
 
             <div className="info-list">
               <div className="info-item">
